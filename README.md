@@ -1,3 +1,3 @@
-"# project1_cal_ts" 
-"# project1_cal_ts" 
-"# project1_cal_ts" 
+to run use below command no any altration
+npx esrun cal.ts
+
